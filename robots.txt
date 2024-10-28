@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ujabaeyi.github.io/sitemap_index.ujabaeyi
